@@ -1,0 +1,8 @@
+Title: Multi-objective Approach for identification of regions in ROI study of Schizophrenia using fMRI data.
+
+Rationale: Region(s) of Interest (ROI) - based analysis has been used as a method for data analysis focusing on some particular areas of interest to inspect the structural and functional changes in predefined region(s). Schizophrenia is a serious mental disorder which is still not completely recoverable. It affects different regions of the brain which subsequently causes hallucination and delusion. Currently, schizophrenia is diagnosed on clinical analysis which is prone to error and subjective in nature. Localization of affected regions in schizophrenia may help us understand the condition and effect of disorder better and may also assist in deciding the line of treatment. This project will throw some light on the region-wise analysis and their individual working condition in the brain having schizophrenia.
+
+Objective of the Project: 
+1)	ROI study of affected brain in schizophrenia using fMRI data to investigate the functional changes in each region.
+2)	Identification of the most affected region(s) in Schizophrenia
+3)	To develop a decision model using Multi-objective optimisation evolutionary approach.
